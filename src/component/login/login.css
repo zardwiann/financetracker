@@ -1,0 +1,39 @@
+.gradient-custom-2 {
+    background-color: #1e3f3a;
+}
+.gradient-custom-3 {
+    background: url('../../../public/img/bg-login2.png');
+    background-size: cover;
+}
+
+.heading4 {
+    color: #1e3f3a;
+}
+
+@media (min-width: 768px) {
+    .gradient-form {
+        height: 100vh !important;
+    }
+}
+ 
+
+.button {
+    background-color: #1e3f3a;
+}
+.loginform {
+   background: url('../././.././../public/img/bg-login.jpg');
+   background-size: cover;
+   color: #1e3f3a;
+}
+
+
+@media (min-width: 769px) {
+    .gradient-custom-2 {
+        border-top-right-radius: .3rem;
+        border-bottom-right-radius: .3rem;
+    }
+}
+.logincard{
+     border-top: 5px solid #1e3f3a;
+     border-radius:10px;
+}

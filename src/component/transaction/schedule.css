@@ -1,0 +1,21 @@
+.cardbox {
+    background: url('../././.././../public/img/bg-login.jpg');
+    color: #1e3f3a;
+    font-weight: bolder;
+    border: none;
+    background-size: cover;
+    border-top: 5px solid #1e3f3a;
+    border-bottom: 5px solid #1e3f3a;
+    ;
+}
+
+.dashboardheader {
+    background-color: #ebe9da;
+    color: #1e3f3a;
+
+
+}
+
+.cardheader {
+    border-top: 5px solid #1e3f3a;
+}
